@@ -1,0 +1,5 @@
+cling
+clink
+cloak
+clock
+clone
